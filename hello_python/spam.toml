@@ -1,0 +1,5 @@
+[package]
+name="Hello Python"
+description="A super simple Hello, World program in Python"
+binaries="hello.py"
+dependencies="python3"

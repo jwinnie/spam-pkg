@@ -1,0 +1,9 @@
+[package]
+name="Hello Python"
+description="Prints 'Hello, World' to the command line."
+binaries=["hello.py"]
+
+[[dependency]]
+name="python3"
+purpose="Interpret the main program"
+url=""

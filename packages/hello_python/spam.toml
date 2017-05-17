@@ -5,7 +5,7 @@ binaries=["hello.py"]
 
 [[binary]]
 name="hello.py"
-url="spam-pkg.herokuapp.com/files/hello_python/hello.py"
+url="spam-pkg.herokuapp.com/hello_python/hello.py"
 
 [[dependency]]
 name="python3"

@@ -3,6 +3,10 @@ name="Hello Python"
 description="Prints 'Hello, World' to the command line."
 binaries=["hello.py"]
 
+[[binary]]
+name="hello.py"
+url="spam-pkg.herokuapp.com/hello_python/hello.py"
+
 [[dependency]]
 name="python3"
 purpose="Interpret the main program"
